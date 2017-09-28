@@ -2,7 +2,7 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-gems:
+plugins:
   - jekyll-paginate
   - redcarpet
   - jekyll-gist
@@ -29,7 +29,7 @@ paginate:         5
 version:          2.1.0
 
 twitter:
-  url:          https://twitter.com/horaceheaven.com
+  url:          https://twitter.com/horaceheaven
 linkedin:
   url:          https://www.linkedin.com/in/horaceheaven/
 github:
