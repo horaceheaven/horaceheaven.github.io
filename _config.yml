@@ -13,20 +13,24 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            'Scrap Paper'
+tagline:          'Blog'
+description:      'Cloud Computing & Machine Learning.'
 url:              http://horaceheaven.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Horace Heaven'
+  url:            https://twitter.com/horaceheaven
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
+twitter:
+  url:          https://twitter.com/horaceheaven.com
+linkedin:
+  url:          https://www.linkedin.com/in/horaceheaven/
 github:
-  repo:           https://github.com/horaceheaven
+  url:           https://github.com/horaceheaven
