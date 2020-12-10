@@ -16,7 +16,7 @@ relative_permalinks: false
 title:            'Scrap Paper'
 tagline:          'Blog'
 description:      'Cloud Computing & Machine Learning.'
-url:              https://horaceheaven.com
+url:              http://horaceheaven.github.io/
 baseurl:          /
 
 author:
