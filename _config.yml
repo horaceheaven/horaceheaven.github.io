@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Horace Heaven"
   avatar           : "profile.png"
-  bio              : "AWS Certified\nKubernetes Certified\nMaster's of Science in Computer Science specialized in Artificial Intelligence & Machine Learning"
+  bio              : "AWS Certified <br/> Kubernetes Certified <br/> Master's of Science in Computer Science specialized in Artificial Intelligence & Machine Learning"
   location         : "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
