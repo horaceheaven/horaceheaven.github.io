@@ -7,11 +7,4 @@ permalink: /publications/2022-books-read
 
 Books I've read in 2022
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon
