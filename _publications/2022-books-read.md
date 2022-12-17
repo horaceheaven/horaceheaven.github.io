@@ -2,6 +2,7 @@
 title: "Notable Books I've Read in 2021-2022"
 collection: publications
 type: "Publications"
+date: 2022-12-17
 permalink: /publications/2022-books-read
 ---
 
