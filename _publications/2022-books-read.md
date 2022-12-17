@@ -1,9 +1,9 @@
-<!-----
+---
 title: "Books I've or currently reading in 2021-2022"
 collection: publications
 type: "Publications"
 permalink: /publications/2022-books-read
------>
+---
 
 # Notable Books I've Read in 2021-2022
 
