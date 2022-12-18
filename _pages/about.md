@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Horace Heaven"
+title: "Posts"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
