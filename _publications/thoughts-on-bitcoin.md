@@ -14,7 +14,7 @@ Bitcoin solves the problem of digital scarcity. Analogous to the physical world 
 
 So Bitcoin is the first known digital scarce commodity, now what? As Bitcoin continues to gain adoption, its essential engineers and cryptographers continue to enhance the foundations of the protocol. Satoshi has endowed the world with a base layer monetary protocol for peer to peer transactions and final settlement. Similar to TCP/IP or the OSI layer, there are opportunities to build other layers on top of Bitcoin. Popular of which is the lightning networks. Lightning facilitates instant transactions where the baselayer may take minutes. Following Lightning, there are numerous applications at higher layers of the protocol (e.g., streaming micropayments directly to creators of podcasts, music & videos - eliminating intermediaries, staking payment to limit spam on the internet, etc.). 
 
-Having a native internet currency grants limitless possibilities to open and democratize the transfer of value. Following history, it's evident that building in layers has been the approach that has turned out well (e.g., the Linux operating system, network protocols, etc.). Continuing in this direction permits many other applications to be built on top of Bitcoin.
+Having a native internet currency grants limitless possibilities to open and democratize the transfer of value. Following history, it's evident that building in layers has been the approach that has turned out well (e.g., the Linux operating system, network protocols, etc.). Continuing in this direction permits many other applications to be built on the solid Bitcoin rails.
 
 
 [The Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
