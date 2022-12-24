@@ -2,7 +2,7 @@
 title: "Thoughts on bitcoin"
 collection: publications
 type: "Publications"
-date: 2022-12-17
+date: 2022-12-24
 permalink: /publications/thoughts-on-bitcoin
 ---
 
