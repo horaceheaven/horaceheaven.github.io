@@ -1,5 +1,5 @@
 ---
-title: "The cost of tomorrow"
+title: "The Cost of Tomorrow"
 collection: publications
 type: "Publications"
 date: 2022-12-17

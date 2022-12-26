@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Blog Posts"
     url: /publications/
   # Note: Disabling until needed
   # - title: "Talks"
@@ -12,11 +12,12 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Résumé"
+    url: /files/Resume-Horace-Heaven.pdf
+    # url: /cv/ # note: Original
     
   # - title: "Guide"
   #   url: /markdown/

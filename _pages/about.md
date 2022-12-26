@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-#### [Notable Books I’ve Read in 2021-2022](/publications/2022-books-read)
+### [Thoughts on Bitcoin](/publications/thoughts-on-bitcoin)
 
-#### [Thoughts on Bitcoin](/publications/thoughts-on-bitcoin)
+### [You Probably Don't Need a Blockchain](/publications/probably-dont-need-a-blockchain)
 
-#### [Why Bitcoin Only](/publications/why-bitcoin-only)
+### [Notable Books I’ve Read in 2021-2022](/publications/2022-books-read)
 
-#### [The cost of tomorrow](/publications/the-cost-of-tomorrow)
+### [The cost of tomorrow](/publications/the-cost-of-tomorrow)
 
-#### [Going from zero to one](/publications/going-from-zero-to-one)
+### [Going from zero to one](/publications/going-from-zero-to-one)
 

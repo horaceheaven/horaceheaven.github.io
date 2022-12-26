@@ -1,5 +1,5 @@
 ---
-title: "Going from zero to one"
+title: "Going From Zero to One"
 collection: publications
 type: "Publications"
 date: 2022-12-17
