@@ -5,3 +5,5 @@ type: "Publications"
 date: 2022-12-24
 permalink: /publications/kubernetes-best-practices
 ---
+
+*Currently a work in progress will be updated over the coming weeks.*
