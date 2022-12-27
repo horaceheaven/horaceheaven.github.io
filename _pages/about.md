@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## Opinion Posts
+
 ### [Thoughts on Bitcoin](/publications/thoughts-on-bitcoin)
 
 ### [You Probably Don't Need a Blockchain](/publications/probably-dont-need-a-blockchain)
@@ -18,3 +20,6 @@ redirect_from:
 
 ### [Going from zero to one](/publications/going-from-zero-to-one)
 
+## Tech Posts
+
+### [Best Practice for Developing Platforms on Kubernetes](/publications/kubernetes-best-practices)
