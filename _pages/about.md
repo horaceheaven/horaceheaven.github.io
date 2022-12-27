@@ -12,9 +12,9 @@ redirect_from:
 
 ### [You Probably Don't Need a Blockchain](/publications/probably-dont-need-a-blockchain)
 
-### [Notable Books I’ve Read in 2021-2022](/publications/2022-books-read)
+### [Technology is Deflationary](/publications/technology-is-deflationary)
 
-### [The cost of tomorrow](/publications/the-cost-of-tomorrow)
+### [Notable Books I’ve Read in 2021-2022](/publications/2022-books-read)
 
 ### [Going from zero to one](/publications/going-from-zero-to-one)
 
