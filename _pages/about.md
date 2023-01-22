@@ -24,4 +24,6 @@ redirect_from:
 
 ### [Best Practice for Developing Platforms on Kubernetes](/publications/kubernetes-best-practices)
 
+### [CKS Certification](/publications/cks-certification)
+
 ### [CKA Certification Renewal](/publications/cka-certification-renewal)
