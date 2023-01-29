@@ -2,7 +2,7 @@
 title: "Best Practice for Developing Platforms on Kubernetes"
 collection: publications
 type: "Publications"
-date: 2022-12-24
+date: 2022-01-29
 permalink: /publications/kubernetes-best-practices
 ---
 # Table of Contents
