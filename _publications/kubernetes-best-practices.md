@@ -43,7 +43,7 @@ Kubernetes, as a platform, offers a wide range of controls and features to accom
 
 ## Other notable practices
 * CI/CD pipelines for application and cluster deployments
-* Helm templating engine for standardizing platform deployments
+* [Helm templating engine for standardizing platform deployments](https://helm.sh)
 
 
 
