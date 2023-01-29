@@ -38,7 +38,7 @@ Kubernetes, as a platform, offers a wide range of controls and features to accom
 * Scanning images with admission controller, scanning images on deployment, and rejecting images with vulnerabilities.
 * Whitelisting permitted images (e.g., to mitigate image squatting attacks, or only permitting trusted repositories, etc.)
 * [Cluster audit logging](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
-* [Network policies (e.g., Limiting permitted ingress/egress)](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
+* [Network policies (e.g., Limiting ingress/egress)](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 * Falco to monitor containers for malicious activity (e.g., alerting on in-container shell command being executed )
 
 ## Other notable practices
