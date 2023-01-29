@@ -8,7 +8,7 @@ permalink: /publications/kubernetes-best-practices
 # Table of Contents
 1. [Overview](#overview)
 2. [Summary of practices](#summary-of-practices)
-3. [Other notable practice](#other-notable-practice)
+3. [Other notable practices](#other-notable-practices)
 
 ## Overview
 As businesses strive for digital transformation and the ability to quickly innovate and meet the needs of their users, there is a growing demand for platforms that are scalable, extensible, and secure. To remain competitive, software must be flexible and able to adapt to changing needs. Kubernetes has become a popular choice for building application platforms due to its ability to provide automation, high availability, and portability out of the box, allowing platform teams to build on top of it with confidence.
