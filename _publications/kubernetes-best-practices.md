@@ -5,7 +5,12 @@ type: "Publications"
 date: 2022-12-24
 permalink: /publications/kubernetes-best-practices
 ---
+# Table of Contents
+1. [Overview](#overview)
+2. [Summary of practices](#summary-of-practices)
+3. [Other notable practice](#other-notable-practice)
 
+## Overview
 As businesses strive for digital transformation and the ability to quickly innovate and meet the needs of their users, there is a growing demand for platforms that are scalable, extensible, and secure. To remain competitive, software must be flexible and able to adapt to changing needs. Kubernetes has become a popular choice for building application platforms due to its ability to provide automation, high availability, and portability out of the box, allowing platform teams to build on top of it with confidence.
 
 There are many use cases for Kubernetes, including self-service platforms for internal development teams to deploy applications, multi-tenant application platforms, multi-cloud deployments, data processing and machine learning services. This post will focus on concepts and practices to consider when building an application platform on Kubernetes, rather than specific technologies.
@@ -20,7 +25,7 @@ In addition to these considerations, it's essential to have a solid understandin
 
 Kubernetes, as a platform, offers a wide range of controls and features to accommodate various needs. However, it is necessary to note that different organizations and use cases may require different sets of features. Below is a summary of the controls to consider when implementing a platform on Kubernetes.
 
-Features
+## Summary of practices
 * Namespaces for shared cluster workload isolation
 * [Resource Quotas (e.g., limit resources consumed by a given namespace)](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace/)
 * Defining correct compute & probe requirements to assist in effectively scheduling workloads
@@ -35,5 +40,10 @@ Features
 * [Cluster audit logging](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
 * [Network policies (e.g., Limiting permitted ingress/egress)](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 * Falco to monitor containers for malicious activity (e.g., alerting on in-container shell command being executed )
+
+## Other notable practices
+* CI/CD pipelines for application and cluster deployments
+* Helm templating engine for standardizing platform deployments
+
 
 
