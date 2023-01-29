@@ -22,17 +22,18 @@ Kubernetes, as a platform, offers a wide range of controls and features to accom
 
 Features
 * Namespaces for shared cluster workload isolation
+* [Resource Quotas (e.g., limit resources consumed by a given namespace)](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace/)
 * Defining correct compute & probe requirements to assist in effectively scheduling workloads
 * Stateless container (e.g., read-only filesystem, a large variety of attacks are carried out from downloading remote payloads, or filesystem manipulation, etc.)
 * Prevent the use of privileged containers, root users, etc
 * AppArmor enforces profile on pods to execute security controls (e.g prevent file writes)
 * OPA Gatekeeper enforces constraints on deployment template (e.g. prevent the deployment of privileged containers)
-* Container sandboxes (e.g., gVisor, used for running untrusted workloads, )
-* Dockerfile best practices
+* Container sandboxes (e.g., gVisor, used for running untrusted workloads)
+* [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 * Scanning images with admission controller, scanning images on deployment, and rejecting images with vulnerabilities.
 * Whitelisting permitted images (e.g., to mitigate image squatting attacks, or only permitting trusted repositories, etc.)
-* Cluster audit logging
-* Network policies (e.g., Limiting permitted ingress/egress)
+* [Cluster audit logging](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
+* [Network policies (e.g., Limiting permitted ingress/egress)](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 * Falco to monitor containers for malicious activity (e.g., alerting on in-container shell command being executed )
 
 
