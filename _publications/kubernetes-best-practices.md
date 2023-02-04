@@ -7,8 +7,8 @@ permalink: /publications/kubernetes-best-practices
 ---
 # Table of Contents
 1. [Overview](#overview)
-2. [Summary of practices](#summary-of-practices)
-3. [Other notable practices](#other-notable-practices)
+2. [Summary of Practices](#summary-of-practices)
+3. [Other Notable Practices](#other-notable-practices)
 
 ## Overview
 As businesses strive for digital transformation and the ability to quickly innovate and meet the needs of their users, there is a growing demand for platforms that are scalable, extensible, and secure. To remain competitive, software must be flexible and able to adapt to changing needs. Kubernetes has become a popular choice for building application platforms due to its ability to provide automation, high availability, and portability out of the box, allowing platform teams to build on top of it with confidence.
@@ -25,23 +25,25 @@ In addition to these considerations, it's essential to have a solid understandin
 
 Kubernetes, as a platform, offers a wide range of controls and features to accommodate various needs. However, it is necessary to note that different organizations and use cases may require different sets of features. Below is a summary of the controls to consider when implementing a platform on Kubernetes.
 
-## Summary of practices
-* Namespaces for shared cluster workload isolation
+## Summary of Practices
+* [Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) for shared cluster workload isolation
 * [Resource Quotas (e.g., limit resources consumed by a given namespace)](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace/)
 * Defining correct [compute](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/) & [probe](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/) requirements to assist in effectively scheduling workloads
-* Stateless container (e.g., read-only filesystem, a large variety of attacks are carried out from downloading remote payloads, or filesystem manipulation, etc.)
-* Prevent the use of privileged containers, root users, etc
-* AppArmor enforces profile on pods to execute security controls (e.g prevent file writes)
+* [SecurityContext](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/) tuning, e.g:
+	* Stateless container (e.g., read-only filesystem, a large variety of attacks are carried out from downloading remote payloads, or filesystem manipulation, etc.)
+	* Prevent the use of privileged containers, root users, etc.
+* [AppArmor](https://kubernetes.io/docs/tutorials/security/apparmor/) enforces profile on pods to execute security controls (e.g., prevent file writes)
 * [OPA Gatekeeper](https://kubernetes.io/blog/2019/08/06/opa-gatekeeper-policy-and-governance-for-kubernetes/) enforces constraints on deployment template (e.g. prevent the deployment of privileged containers)
-* [Container sandboxes (e.g., gVisor, used for running untrusted workloads)](https://kubernetes.io/docs/concepts/containers/runtime-class/)
+* [Container sandboxing](https://kubernetes.io/docs/concepts/containers/runtime-class/) (e.g., [gVisor](https://github.com/google/gvisor), or [Kata Containers](https://katacontainers.io), useful for running untrusted workloads, these practices can help to mitigate container breakouts). Containers share the same kernel as their hosts, kernel bugs can be an attack vector for untrusted workloads.
+	* Some noteworthy CVEs related to container breakouts: CVE-2019-5736, CVE-2016-5195, and [others](https://www.container-security.site/attackers/container_breakout_vulnerabilities.html)
 * [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-* Scanning images with admission controller, scanning images on deployment, and rejecting images with vulnerabilities.
+* Scanning images with the admission controller web hook (e.g., scanning images on deployment, and rejecting images with vulnerabilities, etc.)
 * Whitelisting permitted images (e.g., to mitigate image squatting attacks, or only permitting trusted repositories, etc.)
 * [Cluster audit logging](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
-* [Network policies (e.g., Limiting ingress/egress)](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
+* [Network policies (e.g., Limiting ingress/egress)](https://kubernetes.io/docs/concepts/services-networking/network-policies/). Implementing granular or less permissive network policies. Having less permissive network policies can mitigate many attacks.
 * [Falco](https://falco.org) to monitor containers for malicious activity (e.g., alerting on in-container shell command being executed )
 
-## Other notable practices
+## Other Notable Practices
 * CI/CD pipelines for application and cluster deployments
 * [Helm templating engine for standardizing platform deployments](https://helm.sh)
 
