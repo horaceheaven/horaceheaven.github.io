@@ -2,7 +2,7 @@
 title: "Kubernetes the Data Center Operating System"
 collection: publications
 type: "Publications"
-date: 2023-03-04
+date: 2023-02-04
 permalink: /publications/kubernetes-the-data-center-operating-system
 ---
 
