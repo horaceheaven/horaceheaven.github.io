@@ -24,6 +24,8 @@ redirect_from:
 
 ### [Best Practice for Developing Platforms on Kubernetes](/publications/kubernetes-best-practices)
 
-### [CKS Certification](/publications/cks-certification)
+### [Kubernetes the Data Center Operating System](/publications/kubernetes-the-data-center-operating-system)
 
-### [CKA Certification Renewal](/publications/cka-certification-renewal)
+### [Certified Kubernetes Security Specialist Certification](/publications/cks-certification)
+
+### [Certified Kubernetes Administrator Certification Renewal](/publications/cka-certification-renewal)
