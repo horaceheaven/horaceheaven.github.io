@@ -40,7 +40,7 @@ Kubernetes, as a platform, offers a wide range of controls and features to accom
 * Scanning images with the admission controller web hook (e.g., scanning images on deployment, and rejecting images with vulnerabilities, etc.)
 * Whitelisting permitted images (e.g., to mitigate image squatting attacks, or only permitting trusted repositories, etc.)
 * [Cluster audit logging](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
-* [Network policies (e.g., Limiting ingress/egress)](https://kubernetes.io/docs/concepts/services-networking/network-policies/). Implementing granular or less permissive network policies. Having less permissive network policies can mitigate many attacks.
+* [Network policies (e.g., Limiting ingress/egress)](https://kubernetes.io/docs/concepts/services-networking/network-policies/). Implementing granular or less permissive network policies. Implementing granular or less permissive network policies can help in mitigating security exploits.
 * [Falco](https://falco.org) to monitor containers for malicious activity (e.g., alerting on in-container shell command being executed )
 
 ## Other Notable Practices
