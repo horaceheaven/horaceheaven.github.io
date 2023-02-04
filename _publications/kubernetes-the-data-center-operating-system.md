@@ -1,5 +1,5 @@
 ---
-title: "Kubernetes the Data Center Operating System"
+title: "Kubernetes The Data Center Operating System"
 collection: publications
 type: "Publications"
 date: 2023-02-04

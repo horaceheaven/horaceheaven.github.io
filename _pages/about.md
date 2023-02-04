@@ -24,7 +24,7 @@ redirect_from:
 
 ### [Best Practice for Developing Platforms on Kubernetes](/publications/kubernetes-best-practices)
 
-### [Kubernetes the Data Center Operating System](/publications/kubernetes-the-data-center-operating-system)
+### [Kubernetes The Data Center Operating System](/publications/kubernetes-the-data-center-operating-system)
 
 ### [Certified Kubernetes Security Specialist Certification](/publications/cks-certification)
 
