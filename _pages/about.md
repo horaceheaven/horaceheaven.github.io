@@ -24,6 +24,8 @@ redirect_from:
 
 ### [Best Practice for Developing Platforms on Kubernetes](/publications/kubernetes-best-practices)
 
+### [Papers on Cluster Management at Scale](/publications/cluster-management-papers)
+
 ### [Kubernetes The Data Center Operating System](/publications/kubernetes-the-data-center-operating-system)
 
 ### [Certified Kubernetes Security Specialist Certification](/publications/cks-certification)
