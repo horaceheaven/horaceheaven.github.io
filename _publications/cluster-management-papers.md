@@ -1,5 +1,5 @@
 ---
-title: "Kubernetes The Data Center Operating System"
+title: "Papers on Cluster Management at Scale"
 collection: publications
 type: "Publications"
 date: 2023-02-15
