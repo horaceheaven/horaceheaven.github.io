@@ -14,3 +14,8 @@ The papers presented below offer a historical perspective on the creation and ex
 * [Borg: the Next Generation](https://research.google/pubs/pub49065/)
 * [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
 * [CPU performance isolation for shared compute clusters](https://research.google/pubs/pub40737/)
+
+
+## Other Papers
+
+* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://people.eecs.berkeley.edu/~alig/papers/mesos.pdf)
