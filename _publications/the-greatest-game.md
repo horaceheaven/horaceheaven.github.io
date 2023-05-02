@@ -2,7 +2,7 @@
 title: "The Greatest Game (Humans vs Artificial General Intelligence)"
 collection: publications
 type: "Publications"
-date: 2022-05-02
+date: 2023-05-02
 permalink: /publications/the-greatest-game
 ---
 
