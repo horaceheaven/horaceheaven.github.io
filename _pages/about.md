@@ -20,7 +20,7 @@ redirect_from:
 
 ### [Notable Books I’ve Read in 2021-2022](/publications/2022-books-read)
 
-### [Going from zero to one](/publications/going-from-zero-to-one)
+### [Going from Zero to One](/publications/going-from-zero-to-one)
 
 ## Tech Posts
 
