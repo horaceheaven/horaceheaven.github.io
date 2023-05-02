@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [The Greatest Game](/publications/the-greatest-game)
+
 ### [Thoughts on Bitcoin](/publications/thoughts-on-bitcoin)
 
 ### [You Probably Don't Need a Blockchain](/publications/probably-dont-need-a-blockchain)

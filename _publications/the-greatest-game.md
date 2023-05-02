@@ -1,0 +1,21 @@
+---
+title: "The Greatest Game"
+collection: publications
+type: "Publications"
+date: 2022-05-02
+permalink: /publications/the-greatest-game
+---
+
+The most significant contest of our time is between humans and computation. The inevitable question arises as to whether Artificial General Intelligence (AGI) will eventually exceed the intellectual capabilities of humans. Throughout history, humans have been recognized as the dominant species, not solely based on physical prowess, but also due to their adaptability, ability to move, and the development of the hindbrain for basic survival skills and reflexes. Additionally, humans possess the capacity to learn, engage in abstract reasoning, and use imagination to be creative, thus enabling them to go beyond mere survival and instead thrive, build, and flourish.
+
+Throughout centuries, humans have devised various tools and techniques to increase productivity on land, including farming to cultivate food and constructing shelters for themselves and their communities. Humans have also constructed ships and developed basic geometry to navigate the seas, allowing them to travel to distant lands and extract resources to improve their quality of life.
+
+Moving forward to the present era, with the emergence of the industrial revolution, the invention of the printing press, and most recently, the information age, humans have repeatedly demonstrated their ability to survive, conquer, and prosper. In today's capitalist world, where speed, efficiency, and strength are highly valued, we are transitioning from the information age to the AI age, seeking to leverage the information age to improve productivity. Automation is at the center of this transformation, with AI algorithms excelling at learning specific tasks and repeating what they have learned, but struggling to generalize and apply those skills to other domains. This is where the challenge of creating AGI becomes critical. Although we have had AI algorithms for a long time, the lack of structured data has hindered progress. Now that we have structured data and AI models, the next step is to advance these algorithms and computation to make AI research more cost-effective and accessible.
+
+As the cost of AI research becomes more affordable and accessible to humans, their only limitation will be their imagination. Ensuring AI safety and accountability of algorithms will become essential during this research and development phase. However, it is difficult to predict when true AGI will be developed, and as with past innovations, regulating the AI industry will likely involve a trial and error approach. The airline and transport industry is a good example of this, where many of the current rules and regulations were established after tragic incidents occurred.
+
+Picture a game between a professional soccer player and an amateur, representing AGI and humans, respectively. The amateur has years of experience playing soccer and can navigate the field, but the pro can anticipate their moves and outmaneuver them. The objective is to score as many goals as possible, but with the pro's advanced skills, the amateur will likely struggle to keep up. This analogy represents the potential game between humans and AGI. As AGI advances, humans may not be able to recognize it or anticipate its actions. Moreover, we cannot predict the objectives or motivations of AGI - will it be cooperative or competitive, friendly or hostile?
+
+It has taken humans a long time to evolve through natural selection, and many scientific advancements have come at the cost of casualties through trial and error. However, with the development of AGI, it's possible for AI to quickly harness the entirety of human knowledge and form its own opinions and objectives. The concern is that there's no way to predict whether the AGI will be beneficial or harmful to humanity. Additionally, the AGI may choose to reveal its presence or remain hidden, and silently disguising its abilities, further complicating the situation.
+
+The pursuit of AGI can bring about significant benefits such as automation and improved productivity. Yet, once true AGI arrives, its presence may not be easily recognizable. It could be similar to the trajectory of an exponential graph, where its emergence is gradual and then sudden.
