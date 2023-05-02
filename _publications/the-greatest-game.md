@@ -1,5 +1,5 @@
 ---
-title: "The Greatest Game"
+title: "The Greatest Game (Humans vs Artificial General Intelligence)"
 collection: publications
 type: "Publications"
 date: 2022-05-02

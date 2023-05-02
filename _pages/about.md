@@ -10,7 +10,7 @@ redirect_from:
 
 ## Opinion Posts
 
-### [The Greatest Game](/publications/the-greatest-game)
+### [The Greatest Game (Humans vs Artificial General Intelligence)](/publications/the-greatest-game)
 
 ### [Thoughts on Bitcoin](/publications/thoughts-on-bitcoin)
 
