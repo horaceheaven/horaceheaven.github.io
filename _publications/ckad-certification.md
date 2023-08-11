@@ -2,7 +2,7 @@
 title: "Certified Kubernetes Application Developer Certification"
 collection: publications
 type: "Publications"
-date: 2023-01-21
+date: 2023-08-09
 permalink: /publications/ckad-certification
 ---
 
