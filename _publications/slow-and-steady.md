@@ -12,4 +12,4 @@ Systems and habits surpass the impact of motivation, inspiration, or transient m
 
 Even when the inclination to act is lacking, showing up and following through generates momentum. This momentum aligns with the principle that objects in motion tend to stay in motion unless influenced by external factors. Thus, showing up and following through holds more importance than meticulously planning and deliberating over demanding tasks.
 
-Influenced by "Atomic Habits" by James Clear
+Influenced by "Atomic Habits" - James Clear
