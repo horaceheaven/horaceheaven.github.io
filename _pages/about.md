@@ -35,3 +35,5 @@ redirect_from:
 ### [Certified Kubernetes Security Specialist Certification](/publications/cks-certification)
 
 ### [Certified Kubernetes Administrator Certification Renewal](/publications/cka-certification-renewal)
+
+### [Certified Kubernetes Application Developer Certification](/publications/ckad-certification)
