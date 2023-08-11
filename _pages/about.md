@@ -12,7 +12,7 @@ redirect_from:
 
 ### [The Greatest Game (Humans vs Artificial General Intelligence)](/publications/the-greatest-game)
 
-### [Slow and Steady)](/publications/slow-and-steady)
+### [Slow and Steady](/publications/slow-and-steady)
 
 ### [Thoughts on Bitcoin](/publications/thoughts-on-bitcoin)
 
