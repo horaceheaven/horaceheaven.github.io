@@ -12,6 +12,8 @@ redirect_from:
 
 ### [The Greatest Game (Humans vs Artificial General Intelligence)](/publications/the-greatest-game)
 
+### [Slow and Steady)](/publications/slow-and-steady)
+
 ### [Thoughts on Bitcoin](/publications/thoughts-on-bitcoin)
 
 ### [You Probably Don't Need a Blockchain](/publications/probably-dont-need-a-blockchain)
