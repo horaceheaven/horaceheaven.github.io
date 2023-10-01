@@ -30,6 +30,8 @@ redirect_from:
 
 ### [Papers on Cluster Management at Scale](/publications/cluster-management-papers)
 
+### [Papers of Interest](/publications/papers-of-interest)
+
 ### [Kubernetes The Data Center Operating System](/publications/kubernetes-the-data-center-operating-system)
 
 ### [Certified Kubernetes Security Specialist Certification](/publications/cks-certification)
