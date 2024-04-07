@@ -10,7 +10,7 @@ redirect_from:
 
 ## Opinion Posts
 
-### [Can Artificial Intelligence lead to properity?](/publications/ai-properity)
+### [Can Artificial Intelligence lead to prosperity?](/publications/ai-prosperity)
 
 ### [The Greatest Game (Humans vs Artificial General Intelligence)](/publications/the-greatest-game)
 
