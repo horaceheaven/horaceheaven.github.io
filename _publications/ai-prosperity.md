@@ -1,5 +1,5 @@
 ---
-title: "Can Artificial Intelligence lead to prosperity?"
+title: "Can Artificial Intelligence lead to prosperity? "
 collection: publications
 type: "Publications"
 date: 2024-04-07
