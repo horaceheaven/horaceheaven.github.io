@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [Technology Progress in the Exponential Dimension](/publications/technology-progress-in-the-exponential-dimension)
+
 ### [Can Artificial Intelligence lead to prosperity?](/publications/ai-prosperity)
 
 ### [The Greatest Game (Humans vs Artificial General Intelligence)](/publications/the-greatest-game)
@@ -35,6 +37,8 @@ redirect_from:
 ### [Papers of Interest](/publications/papers-of-interest)
 
 ### [Kubernetes The Data Center Operating System](/publications/kubernetes-the-data-center-operating-system)
+
+### [AWS Certified Security Specialty](/publications/aws-security-certification)
 
 ### [Certified Kubernetes Security Specialist Certification](/publications/cks-certification)
 
