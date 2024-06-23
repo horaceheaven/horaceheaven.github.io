@@ -21,7 +21,7 @@ Unlike linear growth, where changes are gradual and predictable, exponential gro
 
 **Transportation:** Autonomous vehicles, electric cars, and hyperloop systems are transforming transportation. Companies like Tesla, Waymo, and SpaceX are pushing the boundaries of what is possible, promising safer, faster, and more efficient modes of travel. These advancements also have the potential to reduce carbon emissions and combat climate change.
 
-**Finance:** Fintech innovations such as Bitcoin is disrupting traditional banking systems. This technology offer a new way to transfer, store, and manage money, making financial services more accessible to people around the world, particularly in underbanked regions.
+**Finance:** Fintech innovations such as Bitcoin are disrupting the traditional banking system. This technology offers a new way to transfer, store, and manage money, making financial services more accessible to people around the world, particularly in underbanked regions.
 
 **Education:** Online learning platforms, virtual classrooms, and AI-driven personalized education tools are making education more accessible and tailored to individual needs. This democratization of knowledge empowers people from all walks of life to learn new skills and improve their lives.
 
