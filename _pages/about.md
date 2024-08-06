@@ -16,7 +16,7 @@ redirect_from:
 
 ### [Can Artificial Intelligence lead to prosperity?](/publications/ai-prosperity)
 
-### [The Greatest Game (Humans vs Artificial General Intelligence)](/publications/the-greatest-game)
+### [The Greatest Game, Humans vs Artificial General Intelligence](/publications/the-greatest-game)
 
 ### [Slow and Steady](/publications/slow-and-steady)
 
