@@ -1,8 +1,8 @@
 ---
-title: "Useful resources to learn Generative AI"
+title: "Useful Resources To Learn Generative AI"
 collection: publications
 type: "Publications"
-date: 2022-12-27
+date: 2024-09-29
 permalink: /publications/generative-ai
 ---
 
