@@ -32,6 +32,8 @@ redirect_from:
 
 ## Tech Posts
 
+### [Useful resources to learn Generative AI](/publications/generative-ai)
+
 ### [Best Practice for Developing Platforms on Kubernetes](/publications/kubernetes-best-practices)
 
 ### [Papers on Cluster Management at Scale](/publications/cluster-management-papers)
