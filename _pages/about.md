@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [Read History To Predict The Future](/publications/read-history-to-predict-the-future)
+
 ### [The Bitcoin Game Theory Is Playing Out](/publications/bitcoin-game-theory-is-playing-out)
 
 ### [Technology Progress in the Exponential Dimension](/publications/technology-progress-in-the-exponential-dimension)
