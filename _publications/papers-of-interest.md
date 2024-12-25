@@ -1,5 +1,5 @@
 ---
-title: "Papers of Interest"
+title: "Papers Of Interest"
 collection: publications
 type: "Publications"
 date: 2023-02-15

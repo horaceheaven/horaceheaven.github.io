@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on Bitcoin"
+title: "Thoughts On Bitcoin"
 collection: publications
 type: "Publications"
 date: 2022-12-24

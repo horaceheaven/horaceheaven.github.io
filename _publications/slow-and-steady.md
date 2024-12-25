@@ -1,5 +1,5 @@
 ---
-title: "Slow and steady"
+title: "Slow And Steady"
 collection: publications
 type: "Publications"
 date: 2023-08-11

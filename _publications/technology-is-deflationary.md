@@ -1,5 +1,5 @@
 ---
-title: "Technology is Deflationary"
+title: "Technology Is Deflationary"
 collection: publications
 type: "Publications"
 date: 2022-12-27

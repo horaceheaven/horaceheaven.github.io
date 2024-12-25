@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [Sapiens Science Capitalism](/publications/sapiens-science-capitalism)
+
 ### [Read History To Predict The Future](/publications/read-history-to-predict-the-future)
 
 ### [The Bitcoin Game Theory Is Playing Out](/publications/bitcoin-game-theory-is-playing-out)
@@ -22,25 +24,25 @@ redirect_from:
 
 ### [Slow and Steady](/publications/slow-and-steady)
 
-### [Thoughts on Bitcoin](/publications/thoughts-on-bitcoin)
+### [Thoughts On Bitcoin](/publications/thoughts-on-bitcoin)
 
 ### [You Probably Don't Need a Blockchain](/publications/probably-dont-need-a-blockchain)
 
-### [Technology is Deflationary](/publications/technology-is-deflationary)
+### [Technology Is Deflationary](/publications/technology-is-deflationary)
 
 ### [Notable Books I’ve Read in 2021-2022](/publications/2022-books-read)
 
-### [Going from Zero to One](/publications/going-from-zero-to-one)
+### [Going From Zero To One](/publications/going-from-zero-to-one)
 
 ## Tech Posts
 
-### [Useful resources to learn Generative AI](/publications/generative-ai)
+### [Useful Resources To Learn Generative AI](/publications/generative-ai)
 
-### [Best Practice for Developing Platforms on Kubernetes](/publications/kubernetes-best-practices)
+### [Best Practice For Developing Platforms On Kubernetes](/publications/kubernetes-best-practices)
 
-### [Papers on Cluster Management at Scale](/publications/cluster-management-papers)
+### [Papers On Cluster Management At Scale](/publications/cluster-management-papers)
 
-### [Papers of Interest](/publications/papers-of-interest)
+### [Papers Of Interest](/publications/papers-of-interest)
 
 ### [Kubernetes The Data Center Operating System](/publications/kubernetes-the-data-center-operating-system)
 
