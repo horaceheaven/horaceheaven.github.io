@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [Put All Your Eggs in One Basket and Watch It Very Closely](/publications/put-all-your-eggs-in-one-basket)
+
 ### [Sapiens Science Capitalism](/publications/sapiens-science-capitalism)
 
 ### [Read History To Predict The Future](/publications/read-history-to-predict-the-future)
