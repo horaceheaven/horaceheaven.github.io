@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [Artificial Intelligence And Abundance](/publications/ai-and-abundance)
+
 ### [Put All Your Eggs in One Basket and Watch It Very Closely](/publications/put-all-your-eggs-in-one-basket)
 
 ### [Sapiens Science Capitalism](/publications/sapiens-science-capitalism)
