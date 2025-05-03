@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [AI, Free Software, and the Matrix: A New Era of On-Demand Code](/publications/ai-free-software-and-the-matrix)
+
 ### [Artificial Intelligence And Abundance](/publications/ai-and-abundance)
 
 ### [Put All Your Eggs in One Basket and Watch It Very Closely](/publications/put-all-your-eggs-in-one-basket)
