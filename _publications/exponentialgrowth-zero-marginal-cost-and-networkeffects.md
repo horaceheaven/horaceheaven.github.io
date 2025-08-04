@@ -4,6 +4,7 @@ collection: publications
 type: "Publications"
 date: 2025-08-04
 permalink: /publications/exponentialgrowth-zero-marginal-cost-and-networkeffects
+---
 
 ## The Triple Engine of Digital Dominance: Exponential Growth, Zero Marginal Cost & Network Effects
 
