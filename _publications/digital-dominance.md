@@ -3,7 +3,7 @@ title: "The Triple Engine of Digital Dominance: Exponential Growth, Zero Margina
 collection: publications
 type: "Publications"
 date: 2025-08-04
-permalink: /publications/exponentialgrowth-zero-marginal-cost-and-networkeffects
+permalink: /publications/digital-dominance
 ---
 
 ## The Triple Engine of Digital Dominance: Exponential Growth, Zero Marginal Cost & Network Effects
