@@ -10,7 +10,7 @@ redirect_from:
 
 ## Opinion Posts
 
-### [The Triple Engine of Digital Dominance: Exponential Growth, Zero Marginal Cost & Network Effects](/publications/exponentialgrowth-zero-marginal-cost-and-networkeffects)
+### [The Triple Engine of Digital Dominance: Exponential Growth, Zero Marginal Cost & Network Effects](/publications/digital-dominance)
 
 ### [AI, Free Software, and the Matrix: A New Era of On-Demand Code](/publications/ai-free-software-and-the-matrix)
 
