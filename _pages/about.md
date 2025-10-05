@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [Humans: Abundance Creating Beings in a World of Scarcity](/publications/human-abundance)
+
 ### [The Triple Engine of Digital Dominance: Exponential Growth, Zero Marginal Cost & Network Effects](/publications/digital-dominance)
 
 ### [AI, Free Software, and the Matrix: A New Era of On-Demand Code](/publications/ai-free-software-and-the-matrix)
