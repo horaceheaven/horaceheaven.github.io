@@ -12,6 +12,8 @@ redirect_from:
 
 ### [Humans: Abundance Creating Beings in a World of Scarcity](/publications/human-abundance)
 
+### [The World as a Computational System: How Individual Actions Shape Global Outcomes](/publications/world-as-a-computational-system)
+
 ### [The Triple Engine of Digital Dominance: Exponential Growth, Zero Marginal Cost & Network Effects](/publications/digital-dominance)
 
 ### [AI, Free Software, and the Matrix: A New Era of On-Demand Code](/publications/ai-free-software-and-the-matrix)
