@@ -2,7 +2,7 @@
 title: "Humans: Abundance Creating Beings in a World of Scarcity"
 collection: publications
 type: "Publications"
-date: 2025-11-05
+date: 2025-10-05
 permalink: /publications/human-abundance
 ---
 

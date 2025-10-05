@@ -2,7 +2,7 @@
 title: "The World as a Computational System: How Individual Actions Shape Global Outcomes"
 collection: publications
 type: "Publications"
-date: 2025-11-05
+date: 2025-10-05
 permalink: /publications/world-as-a-computational-system
 ---
 
