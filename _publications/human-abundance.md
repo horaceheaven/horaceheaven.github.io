@@ -6,7 +6,7 @@ date: 2025-11-05
 permalink: /publications/human-abundance
 ---
 
-# Humans: Abundance Creating Beings in a World of Scarcity
+## Humans: Abundance Creating Beings in a World of Scarcity
 
 Humans possess a unique ability that sets us apart from every other species on Earth: we transform scarcity into abundance through innovation, cooperation, and relentless problem-solving. While the natural world operates on fixed resources and zero-sum competition, human civilization has repeatedly defied these constraints by inventing new ways to create, distribute, and multiply value.
 
