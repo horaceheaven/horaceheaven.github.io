@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [The Bitter Lesson: Why Computation Beats Human Ingenuity in AI](/publications/the-bitter-lesson)
+
 ### [Humans: Abundance Creating Beings in a World of Scarcity](/publications/human-abundance)
 
 ### [The World as a Computational System: How Individual Actions Shape Global Outcomes](/publications/world-as-a-computational-system)
