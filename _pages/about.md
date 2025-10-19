@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [The Eternal Dance: Ray Dalio's Market Cycles and the Psychology of Empire](/publications/the-eternal-dance)
+
 ### [The Bitter Lesson: Why Computation Beats Human Ingenuity in AI](/publications/the-bitter-lesson)
 
 ### [Humans: Abundance Creating Beings in a World of Scarcity](/publications/human-abundance)
