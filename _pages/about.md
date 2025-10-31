@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [When Reality Meets Expectation: The True Source of Satisfaction](/publications/the-true-source-of-satisfaction)
+
 ### [The Eternal Dance: Ray Dalio's Market Cycles and the Psychology of Empire](/publications/the-eternal-dance)
 
 ### [The Bitter Lesson: Why Computation Beats Human Ingenuity in AI](/publications/the-bitter-lesson)
