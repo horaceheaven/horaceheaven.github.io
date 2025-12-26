@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [The New Kernel: Why LLMs Are Becoming Operating Systems](/publications/llm-os)
+
 ### [When Reality Meets Expectation: The True Source of Satisfaction](/publications/the-true-source-of-satisfaction)
 
 ### [The Eternal Dance: Ray Dalio's Market Cycles and the Psychology of Empire](/publications/the-eternal-dance)
