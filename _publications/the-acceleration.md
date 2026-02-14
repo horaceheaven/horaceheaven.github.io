@@ -1,12 +1,12 @@
 ---
-title: "The Acceleration"
+title: "The Acceleration: A Brief History of Humanity's Technological Leaps"
 collection: publications
 type: "Publications"
 date: 2026-02-14
 permalink: /publications/the-acceleration
 ---
 
-### The Acceleration
+### The Acceleration: A Brief History of Humanity's Technological Leaps
 
 The Acceleration is a reverse-chronological history of humanity's major technological leaps that explores why each innovation spreads faster than the last. The book traces a clear pattern: agricultural revolution took 3,000 years to spread globally, the printing press took 400 years to reach every continent, electricity took 46 years to reach 25% of American homes, the Internet took 7 years to reach the same adoption—and ChatGPT reached 100 million users in just two months. This exponential acceleration occurs because each new technology builds on the infrastructure of its predecessors, reduces friction (especially for digital technologies that require no manufacturing or shipping), creates network effects, and enables faster communication that spawns the next innovation.
 ​
