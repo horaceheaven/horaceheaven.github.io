@@ -5,6 +5,8 @@
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -14,7 +16,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 1rem 1.5rem;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
