@@ -10,6 +10,8 @@ redirect_from:
 
 ## Opinion Posts
 
+### [Language: The Original Virtual Reality](/portfolio/language-the-original-virtual-reality)
+
 ### [The Acceleration: A Brief History of Humanity's Technological Leaps](/publications/the-acceleration)
 
 ### [The New Kernel: Why LLMs Are Becoming Operating Systems](/publications/llm-os)
