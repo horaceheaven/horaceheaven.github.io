@@ -5,9 +5,9 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  margin-top: 3em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -51,7 +51,7 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.4em;
     border-bottom: 1px solid $border-color;
   }
 
@@ -73,13 +73,14 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: 1px solid rgba($primary-color, 0.3);
 
     &:hover {
-      text-decoration: underline;
+      border-bottom-color: $primary-color;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: $box-shadow-hover;
       }
     }
   }
@@ -87,13 +88,14 @@
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
-    font-weight: bold;
+    font-weight: 600;
   }
 
   dd {
-    margin-left: 1em;
+    margin-left: 1.5em;
     font-family: $sans-serif;
     font-size: $type-size-6;
+    color: lighten($text-color, 10%);
   }
 
   .small {
@@ -263,16 +265,23 @@
 
 .page__taxonomy-item {
   display: inline-block;
-  margin-right: 5px;
+  margin-right: 6px;
   margin-bottom: 8px;
-  padding: 5px 10px;
+  padding: 4px 12px;
+  font-size: 0.85em;
+  font-weight: 500;
   text-decoration: none;
-  border: 1px solid $light-gray;
-  border-radius: $border-radius;
+  color: $text-color;
+  background: $lightest-gray;
+  border: 1px solid $border-color;
+  border-radius: 20px;
+  transition: all 0.2s ease;
 
   &:hover {
     text-decoration: none;
-    color: $link-color-hover;
+    color: $primary-color;
+    background: rgba($primary-color, 0.05);
+    border-color: $primary-color;
   }
 }
 
