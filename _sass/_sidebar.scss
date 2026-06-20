@@ -73,8 +73,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -83,12 +81,13 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 150px;
+    border-radius: 12px;
+    box-shadow: $box-shadow;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: none;
     }
   }
 }
@@ -162,14 +161,14 @@
   display: none;
   position: absolute;
   right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  margin-top: 12px;
+  padding: 12px;
   list-style-type: none;
   border: 1px solid $border-color;
-  border-radius: $border-radius;
+  border-radius: 10px;
   background: #fff;
   z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
   cursor: default;
 
   @include breakpoint($large) {
@@ -186,30 +185,15 @@
     display: block;
     content: "";
     position: absolute;
-    top: -11px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: $border-color transparent;
+    top: -8px;
+    left: calc(50% - 8px);
+    width: 14px;
+    height: 14px;
+    background: #fff;
+    border-top: 1px solid $border-color;
+    border-left: 1px solid $border-color;
+    transform: rotate(45deg);
     z-index: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
-
-  &:after {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -10px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: #fff transparent;
-    z-index: 1;
 
     @include breakpoint($large) {
       display: none;
@@ -221,17 +205,20 @@
   }
 
   a {
-    display: block;
-    margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: inherit;
-    font-size: $type-size-5;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+    padding: 6px 10px;
+    color: $text-color;
+    font-size: $type-size-6;
     text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.2s ease;
 
     &:hover {
-      text-decoration: underline;
+      background: rgba($primary-color, 0.08);
+      color: $primary-color;
     }
   }
 }
