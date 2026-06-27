@@ -2,7 +2,7 @@
 title: "History as a Technology Stack"
 collection: publications
 type: "Publications"
-date: 2026-27-06
+date: 2026-06-27
 permalink: /publications/history-as-a-technology-stack
 ---
 
