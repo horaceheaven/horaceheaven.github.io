@@ -10,9 +10,9 @@ redirect_from:
 
 ## Opinion Posts
 
-### [History as a Technology Stack](/portfolio/history-as-a-technology-stack)
+### [History as a Technology Stack](/publications/history-as-a-technology-stack)
 
-### [Language: The Original Virtual Reality](/portfolio/language-the-original-virtual-reality)
+### [Language: The Original Virtual Reality](/publications/language-the-original-virtual-reality)
 
 ### [The Acceleration: A Brief History of Humanity's Technological Leaps](/publications/the-acceleration)
 

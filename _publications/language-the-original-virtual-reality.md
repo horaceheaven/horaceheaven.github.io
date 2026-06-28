@@ -3,7 +3,7 @@ title: "Language: The Original Virtual Reality"
 collection: portfolio
 type: "Portfolio"
 date: 2026-05-10
-permalink: /portfolio/language-the-original-virtual-reality
+permalink: /publications/language-the-original-virtual-reality
 ---
 
 Reality is fundamentally too dense to transmit directly from one human brain to another. To share experiences, we rely on a highly effective but lossy compression algorithm called language. When you bite into an apple, you experience a complex matrix of texture, acidity, sugar, and memory. You cannot hand that exact neurological state to someone else, so you encode it into a phonetic pointer like "crisp." Language is not reality itself; it is a low-resolution simulation running on the hardware of the human mind, allowing us to approximate and share our internal states.
